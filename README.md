@@ -1,0 +1,2 @@
+# Song-Popularity-Predictor
+The purpose of this project is to try and investigate and analyse whether there are certain characteristics for hit songs. What are the features which actually contributes to the success of a track? To accomplish the task of finding patterns and building a model which can be used to predict the popularity of a musical track, we use the random forest machine learning algorithm. The features of an audio track are used for building the model. A range of parameters are considered for evaluation.
